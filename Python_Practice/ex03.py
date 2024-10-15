@@ -8,4 +8,7 @@ print(True + True)
 print(1 == True)
 print (0 != False)
 
+print(True + 1) #Considered bool type as a number
+print(False + 0) #Considered bool type as a number
+
 
